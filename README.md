@@ -14,8 +14,7 @@ So, I started designing a printer with the following goals:
 This printer is not only a DIY project but also allows users to customize the design themselves!
 
 **Suggestions:** [siteshine2@gmail.com](mailto:siteshine2@gmail.com)
-
-
+<br><br><br>
 
 
 어느 날 문득 이런 생각이 들었습니다.  
