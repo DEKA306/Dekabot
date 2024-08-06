@@ -1,5 +1,4 @@
 # Dekabot Project
-small corexy printer project
 
 어느 날 문득 이런 생각이 들었습니다.  
 *"아, 프린터 만들어보고 싶다!"*  
