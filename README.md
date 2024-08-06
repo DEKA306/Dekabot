@@ -13,4 +13,4 @@ Dekabot Project는 그 생각에서 시작되었습니다.
 
 이 프린터는 DIY일뿐만 아니라, 사용자가 직접 디자인을 변경할 수 있습니다!
 
-**건의:** [siteshine2@gmail.com](mailto:siteshine2@gmail.com
+**건의:** [siteshine2@gmail.com](mailto:siteshine2@gmail.com)
