@@ -1,5 +1,23 @@
 # Dekabot Project
 
+One day, I suddenly had a thought.  
+*"Oh, I want to try making a printer!"*  
+
+The Dekabot Project began from that thought.  
+Actually, I had nothing particular to do during the break, and even after school starts, I still didn’t have much to do.  
+So, I started designing a printer with the following goals:
+
+- **Customizable size**
+- **Speed**: 150mm/s (not very fast, but reasonable)
+- **Affordable** to build
+
+This printer is not only a DIY project but also allows users to customize the design themselves!
+
+**Suggestions:** [siteshine2@gmail.com](mailto:siteshine2@gmail.com)
+
+
+
+
 어느 날 문득 이런 생각이 들었습니다.  
 *"아, 프린터 만들어보고 싶다!"*  
 
@@ -15,18 +33,3 @@ Dekabot Project는 그 생각에서 시작되었습니다.
 
 **건의:** [siteshine2@gmail.com](mailto:siteshine2@gmail.com)
 
-
-One day, I suddenly had a thought.  
-*"Oh, I want to try making a printer!"*  
-
-The Dekabot Project began from that thought.  
-Actually, I had nothing particular to do during the break, and even after school starts, I still didn’t have much to do.  
-So, I started designing a printer with the following goals:
-
-- **Customizable size**
-- **Speed**: 150mm/s (not very fast, but reasonable)
-- **Affordable** to build
-
-This printer is not only a DIY project but also allows users to customize the design themselves!
-
-**Suggestions:** [siteshine2@gmail.com](mailto:siteshine2@gmail.com)
