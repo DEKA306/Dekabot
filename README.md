@@ -14,3 +14,19 @@ Dekabot Project는 그 생각에서 시작되었습니다.
 이 프린터는 DIY일뿐만 아니라, 사용자가 직접 디자인을 변경할 수 있습니다!
 
 **건의:** [siteshine2@gmail.com](mailto:siteshine2@gmail.com)
+
+
+One day, I suddenly had a thought.  
+*"Oh, I want to try making a printer!"*  
+
+The Dekabot Project began from that thought.  
+Actually, I had nothing particular to do during the break, and even after school starts, I still didn’t have much to do.  
+So, I started designing a printer with the following goals:
+
+- **Customizable size**
+- **Speed**: 150mm/s (not very fast, but reasonable)
+- **Affordable** to build
+
+This printer is not only a DIY project but also allows users to customize the design themselves!
+
+**Suggestions:** [siteshine2@gmail.com](mailto:siteshine2@gmail.com)
